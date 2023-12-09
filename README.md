@@ -2,8 +2,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdmohiuddin10)](https://git.io/streak-stats)
 
-<p align="center">
-##🧐 Current Overview:
+
+## 🧐 Current Overview:
 
 🔭 I’m currently learning and practising
 
@@ -17,8 +17,8 @@
 
 </p>
 
-<p>
-	# My Project
+
+## My Project
 
   ##Project_Name = Porinhoy.com[A matrimony website]
 
@@ -27,9 +27,8 @@
   their have a premium member option. they have some opportunity
 
   Live Link: 	[title](https://final-project-client-cff01.web.app/)
-</p>
-<p>
-  ##Project_Name = FoodThrive[A Community food sharing website]
+
+## Project_Name = FoodThrive[A Community food sharing website]
 
   user can add food by login website.
 
@@ -38,9 +37,9 @@
   user can manage their food
 
   Live Link: 	[title](https://assignment-11-client-948fc.firebaseapp.com/)
-</p>
-<p>
-  ##Project_Name = Gadget Galaxy[A Ecommerce website]
+
+
+  ## Project_Name = Gadget Galaxy[A Ecommerce website]
 
   have login and registration function.
 
@@ -49,7 +48,36 @@
   admin can add update and delete product
 
   Live Link: 	[title](https://name-of-your-product.firebaseapp.com/login)
-</p>
+
+
+# Socail Links:
+
+[Linkedin](www.linkedin.com/in/md-mohiuddin-82314727b)
+
+[Email](hmmohiuddinctg1997@gmail.com)
+
+
+
+
+
+## Short Description:
+
+Passionate about building exceptional web applications with the MERN (MongoDB, Express.js, React.js, Node.js) stack. I enjoy turning ideas into code and creating seamless user experiences. Let's collaborate and innovate in the world of web development!
+
+
+## Tech Stack:
+Html
+Css
+JavaScript
+Twilwind Css
+MongoDB
+Express.js
+React.js
+Node.js
+
+
+
+
 
 <p align="center">
 <p>	**My skills**</p>
