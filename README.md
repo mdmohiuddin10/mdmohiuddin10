@@ -19,23 +19,35 @@
 
 <p>
 	# My Project
+
   ##Project_Name = Porinhoy.com[A matrimony website]
+
   user can add their Bio data by login website.
+
   their have a premium member option. they have some opportunity
+
   Live Link: 	[title](https://final-project-client-cff01.web.app/)
 </p>
 <p>
   ##Project_Name = FoodThrive[A Community food sharing website]
+
   user can add food by login website.
+
   user can requst food. user can delete their request.
+
   user can manage their food
+
   Live Link: 	[title](https://assignment-11-client-948fc.firebaseapp.com/)
 </p>
 <p>
   ##Project_Name = Gadget Galaxy[A Ecommerce website]
+
   have login and registration function.
+
   user can see product and user can see details after login website.
+
   admin can add update and delete product
+
   Live Link: 	[title](https://name-of-your-product.firebaseapp.com/login)
 </p>
 
@@ -44,8 +56,4 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,react,docker,c,vim" />
   </a>
-</p>
-<p>
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={mdmohiuddin10}&theme={2077}
-
 </p>
