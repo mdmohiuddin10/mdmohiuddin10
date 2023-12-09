@@ -20,7 +20,7 @@
 
 ## My Project
 
-  ##Project_Name = Porinhoy.com[A matrimony website]
+## Project_Name = Porinhoy.com[A matrimony website]
 
   user can add their Bio data by login website.
 
@@ -39,7 +39,7 @@
   Live Link: 	[title](https://assignment-11-client-948fc.firebaseapp.com/)
 
 
-  ## Project_Name = Gadget Galaxy[A Ecommerce website]
+## Project_Name = Gadget Galaxy[A Ecommerce website]
 
   have login and registration function.
 
@@ -66,22 +66,29 @@ Passionate about building exceptional web applications with the MERN (MongoDB, E
 
 
 ## Tech Stack:
-Html
-Css
-JavaScript
-Twilwind Css
-MongoDB
-Express.js
-React.js
-Node.js
+- Html
+
+- Css
+
+- JavaScript
+
+- Twilwind Css
+
+- MongoDB
+
+- Express.js
+
+- React.js
+
+- Node.js
 
 
 
 
 
-<p align="center">
-<p>	**My skills**</p>
+
+## My skills**
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,react,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,react,js,html,css,bootstrap,firebase,figma,mongodb,nodejs,vscode,wordpress" />
   </a>
-</p>
+
