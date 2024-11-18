@@ -89,6 +89,6 @@ Passionate about building exceptional web applications with the MERN (MongoDB, E
 
 ## My skills**
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,react,js,html,css,bootstrap,firebase,figma,mongodb,nodejs,vscode,wordpress" />
+    <img src="https://skillicons.dev/icons?i=git,react,js,html,css,bootstrap,firebase,figma,mongodb,nodejs,vscode,wordpress,Postgres,SQL,NextJs" />
   </a>
 
